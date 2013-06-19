@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$//realty-all.iml" filepath="$PROJECT_DIR$//realty-all.iml" />
       <module fileurl="file://$PROJECT_DIR$/realty-common/realty-common.iml" filepath="$PROJECT_DIR$/realty-common/realty-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/realty-robot/realty-robot.iml" filepath="$PROJECT_DIR$/realty-robot/realty-robot.iml" />
     </modules>
